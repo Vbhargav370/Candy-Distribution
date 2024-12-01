@@ -2,22 +2,14 @@
 
 Candy Distribution
 Chef has 
-N
-N candies. He has to distribute them to exactly 
-M
-M of his friends such that each friend gets equal number of candies and each friend gets even number of candies. Determine whether it is possible to do so.
+N candies. He has to distribute them to exactly M of his friends such that each friend gets equal number of candies and each friend gets even number of candies. Determine whether it is possible to do so.
 
 NOTE: Chef will not take any candies himself and will distribute all the candies.
 
 Input Format
-First line will contain 
-T
-T, number of test cases. Then the test cases follow.
+First line will contain T, number of test cases. Then the test cases follow.
 Each test case contains of a single line of input, two integers 
-N
-N and 
-M
-M, the number of candies and the number of friends.
+N and M, the number of candies and the number of friends.
 Output Format
 For each test case, the output will consist of a single line containing Yes if Chef can distribute the candies as per the conditions and No otherwise.
 
